@@ -1,0 +1,16 @@
+PODS:
+  - OceanTest (0.1.0)
+
+DEPENDENCIES:
+  - OceanTest (from `../`)
+
+EXTERNAL SOURCES:
+  OceanTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OceanTest: 465fd40167fb559eb2463018bd51e02c73878b2e
+
+PODFILE CHECKSUM: 687e0b5b74e9247bbfcb162b26222ca4705d01ef
+
+COCOAPODS: 1.11.3

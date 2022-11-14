@@ -1,0 +1,6 @@
+framework module Pods_OceanTest_Tests {
+  umbrella header "Pods-OceanTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
