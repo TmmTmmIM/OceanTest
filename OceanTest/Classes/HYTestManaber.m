@@ -11,7 +11,7 @@
 
 + (void)Test
 {
-    NSLog(@"test123321");
+    NSLog(@"11111test123321");
 }
 
 @end
