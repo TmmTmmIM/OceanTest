@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "HYTestManaber.h"
 
 FOUNDATION_EXPORT double OceanTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char OceanTestVersionString[];
